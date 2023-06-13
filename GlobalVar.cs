@@ -14,7 +14,7 @@ namespace EscrowManagement
     {
         public static string conn_url = "https://blueviolet.tech/ver_id/websrvc.php";
 
-        public static string api_key = "P0oG6pnwuI>t*gQ*SehXqEp#x`5#Y";
+        public static string api_key = "p";
 
         public static string no_conn_msg = "Unable to Connect to the Blueviolet Network, Kindly check your internet connection";
 
